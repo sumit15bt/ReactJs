@@ -1,0 +1,27 @@
+
+nvm --version
+nvm ls-remote
+nvm install 12.18.4
+
+
+npm install npm@latest -g
+npx create-react-app my-app // to create pakage new app package
+
+
+JSX==> javaScript in form xml i.e  create its own virtual DOM.
+	Any html things must be in single DOM container.
+	(javaScript 6)
+javascript 6 have "class" reserved keyword -> So, we use className in place of class.
+
+Props:- It is like property i.e attribute of html.
+	props are passed to the conponent 
+	It is immutable 
+	props - is functional conponent
+`	this.props - is class component
+
+State can only used with class component not functional component.
+
+	State can be managed within component 
+	State can be changed
+	use State Hook in functional component
+	this.state - class component

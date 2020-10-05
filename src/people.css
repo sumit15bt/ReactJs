@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+.peoples_div_css{
+  text-transform: uppercase;
+  font-family: 'Gugi' cursive;
+}
+.mainPage{
+  width: 90%;
+  height: 100vh;
+  margin:auto;
+}
+.peoples_div_css img{
+  width :100px;
+  height:100px;
+  margin-left: 16%;
+}
+.mainPage h1{
+  margin : 0;
+  padding: 20px 0;
+  text-align: center;
+}
